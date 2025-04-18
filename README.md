@@ -51,7 +51,7 @@ Python code for a WhatsApp automation tool: [whatsapp.py](https://github.com/Aks
 - Input Parameters:
   - `User/Group Name`: **Case-sensitive** target chat name.
   - `Message Source`: Choose between **clipboard** (Y) or **manual input** (N).
-  - `Count`: Number of messages (e.g., `*10`).
+  - `Count`: Number of messages (e.g., `10`).
   - `Interval`: Delay between messages in seconds (e.g., `1.5`).
   - `Bot Prompt`: Add status prefix (Y/N).
 
