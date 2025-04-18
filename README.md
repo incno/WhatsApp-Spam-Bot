@@ -2,7 +2,7 @@
 
 Python code for a WhatsApp automation tool: [whatsapp.py](https://github.com/Akshayjyoti/WhatsApp-Spam-Bot/blob/main/whatsapp.py)  
 **Version**: 3.0  
-**Latest Testing**: June 25, 2024  
+**Latest Testing**: April 17, 2024  
 **Maintainer**: Fatony Ahmad Fauzi
 
 ---
@@ -49,11 +49,11 @@ Python code for a WhatsApp automation tool: [whatsapp.py](https://github.com/Aks
 
 - Scan QR Code via WhatsApp Web.
 - Input Parameters:
-  - `**User/Group Name**`: **Case-sensitive** target chat name.
-  - `**Message Source**`: Choose between **clipboard** (Y) or **manual input** (N).
-  - `**Count**`: Number of messages (e.g., `**10**`).
-  - `**Interval**`: Delay between messages in seconds (e.g., `**1.5**`).
-  - `**Bot Prompt**`: Add status prefix (Y/N).
+  - `User/Group Name`: **Case-sensitive** target chat name.
+  - `Message Source`: Choose between **clipboard** (Y) or **manual input** (N).
+  - `Count`: Number of messages (e.g., `*10`).
+  - `Interval`: Delay between messages in seconds (e.g., `1.5`).
+  - `Bot Prompt`: Add status prefix (Y/N).
 
 ---
 
@@ -69,5 +69,3 @@ Python code for a WhatsApp automation tool: [whatsapp.py](https://github.com/Aks
 ## 📜 Disclaimer
 
 This tool is for **educational purposes only**. Misuse (e.g., spamming) may violate WhatsApp's Terms of Service and result in account bans. Use responsibly.
-
----
